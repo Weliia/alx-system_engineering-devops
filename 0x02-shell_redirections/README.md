@@ -1,1 +1,1 @@
-shell redirections
+runing for n
